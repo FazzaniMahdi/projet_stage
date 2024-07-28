@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\models\\repositories\\joblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\repositories\\joblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\controllers\\joblistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:controllers\\joblistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\models\\viewmodels\\modifyjoblistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\viewmodels\\modifyjoblistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\models\\viewmodels\\addjoblistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\viewmodels\\addjoblistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\models\\repositories\\ijoblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\repositories\\ijoblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projects mk2\\asp.net backends\\jobhosting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJobListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\Repositories\\IJobListingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IJobListingRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\Repositories\\IJobListingRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IJobListingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:16:21.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModifyJobListingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\ViewModels\\ModifyJobListingViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\ModifyJobListingViewModel.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\ViewModels\\ModifyJobListingViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\ModifyJobListingViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA+wA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:09:35.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddJobListingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\ViewModels\\AddJobListingViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AddJobListingViewModel.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\ViewModels\\AddJobListingViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AddJobListingViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:21:55.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\Repositories\\JobListingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\JobListingRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\Repositories\\JobListingRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\JobListingRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA+wEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:59:55.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\ViewModels\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\ViewModels\\SignUpViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:20:15.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Controllers\\JobListingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobListingsController.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Controllers\\JobListingsController.cs",
+              "RelativeToolTip": "Controllers\\JobListingsController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAuwJwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:08:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Controllers\\UserAccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAccountsController.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Controllers\\UserAccountsController.cs",
+              "RelativeToolTip": "Controllers\\UserAccountsController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAUwM0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:18:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobListing.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\JobListing.cs",
+              "RelativeDocumentMoniker": "Models\\JobListing.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\JobListing.cs",
+              "RelativeToolTip": "Models\\JobListing.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:38:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Models\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\UserAccount.cs",
+              "RelativeToolTip": "Models\\UserAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:45:12.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:31:33.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T10:19:27.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects mk2\\Asp.net Backends\\jobHosting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:08:58.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
